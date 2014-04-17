@@ -7,7 +7,7 @@ This is a Javascript Random Password Generator. Basically what it does is create
 
 To use it's is very easy, all you need to do is include either random-min.js (Not fully readable), or random.js (Readable) to your HTML page by using:
 _______________
-<script type="text/javascript" src="random-min.js"></script>
+< script type="text/javascript" src="random-min.js" >< /script >
 _______________
 
 And in the button/link anything you want to click to generate just use: 
